@@ -1,7 +1,7 @@
 {
-    "version":  "0.6.0",
-    "rbz":  "https://raw.githubusercontent.com/francisfatade/fatatelier-modular-walls-releases/main/fatatelier_modular_walls_0.6.0.rbz",
-    "notes":  "Floors: Draw Floor and Edit Floor (Beams \u0026 Floors section). OSB floor cassettes with LVL beam lines where a span passes 95 in, rib spacing from the structure check. Floors work with Fast Preview, Build Full Detail and Check Rules.",
+    "version":  "0.7.0",
+    "rbz":  "https://raw.githubusercontent.com/francisfatade/fatatelier-modular-walls-releases/main/fatatelier_modular_walls_0.7.0.rbz",
+    "notes":  "CNC Export: parts numbered and nested on 4x8 sheets (grain locked), a DXF per sheet for VCarve Pro, sheet maps, Zebra 4x2 labels with barcodes, cut list. Restart SketchUp after updating to see the new CNC button.",
     "released":  "2026-10-27",
-    "commit":  "32eefeb"
+    "commit":  "2b3dca4"
 }
